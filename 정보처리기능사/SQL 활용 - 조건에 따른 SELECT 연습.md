@@ -1,9 +1,5 @@
 # SQL 활용 - 조건에 따른 SELECT 연습
 
-![사원 테이블](../img/table.jpg)
-
-<사원> 테이블
-
 ```sql
 -- 1. 사원T에서 주소만 검색, 같은 주소는 한 번만 출력
 SELECT DISTINCT 주소 FROM 사원;
