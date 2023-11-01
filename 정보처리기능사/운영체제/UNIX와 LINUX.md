@@ -15,7 +15,7 @@
 
 ## UNIX 시스템의 구성
 
-![unix composition](img/unix.png)
+![unix composition](/img/unix.png)
 
 ### 커널 Kernel
 
